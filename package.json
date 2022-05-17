@@ -1,0 +1,19 @@
+{
+  "name": "someelectronsheez",
+  "version": "1.0.0",
+  "description": "A meme made in Electron and TypeScript. e",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "Am",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^18.2.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TheAmityD/SomeElectronSheez.git"
+  }
+}
